@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-robertoamoreno-couchdb-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-robertoamoreno-couchdb-mcp-server)
+
 # couchdb-mcp-server
 [![smithery badge](https://smithery.ai/badge/@robertoamoreno/couchdb-mcp-server)](https://smithery.ai/server/@robertoamoreno/couchdb-mcp-server)
 
